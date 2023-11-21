@@ -1,21 +1,58 @@
 # Serenity
 
-In the absence of free time, it can be difficult to find time for mental health and clarity. During these difficult times, it is vital to have a clear mind, unperturbed by the toils of daily life. Serenity is a mental health support and training app designed to fix this problem. From daily exercises to clinical learning, our app helps prevent mental crises before they strike. 
+In the hustle of daily life, finding time for mental health and clarity is challenging. Serenity, our mental health support and training app, is designed to address this issue. From daily exercises to clinical learning, Serenity aims to prevent mental crises by providing users with tools for maintaining a clear and unperturbed mind.
 
-- Users can log in every day to perform customized mental health exercises. After answering some simple questions, our algorithm will use machine learning to recommend things like yoga or meditation which can be done in 5 minutes or less.
-- Users can gain points through daily logins and activity compilation which they can then redeem for items within the app, or currency.
-- Send frequent messages of encouragement to ensure the user is supported through their struggles.
-- Many other services!
+## Key Features
 
-Serenity is an innovative solution in a modern world, it's an app designed for everyone. With a plethora of services designed to target different and vulnerable parts of our society. The platform will be accessible through your favorite browser or phone.
+- **Customized Mental Health Exercises:** Perform daily exercises tailored to your needs.
+- **Machine Learning Recommendations:** Receive personalized recommendations, such as yoga or meditation, based on your responses to simple questions.
+- **Points System:** Earn points through daily logins and activity completion, redeemable for in-app items or currency.
+- **Encouragement Messages:** Receive frequent messages of encouragement to support you through challenges.
+- **Accessible Anywhere:** Access the platform through your favorite browser or phone.
 
-Contributors:
-- Timothy Samoylov (300303624)
-- Michael Haddad (300298328)
-- Arun Sabaratnam (300297854)
-- Mayoor Aithal (300302157)
-- Hasan Jaber (300303045)
-- Asad Ali (300300354)
+## Contributors
 
+- **Timothy Samoylov (300303624)**
+- **Michael Haddad (300298328)**
+- **Arun Sabaratnam (300297854)**
+- **Mayoor Aithal (300302157)**
+- **Hasan Jaber (300303045)**
+- **Asad Ali (300300354)**
+
+## Getting Started
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/Twoos123/Serenity.git
+    ```
+
+2. **Navigate to the project directory:**
+
+    ```bash
+    cd Serenity
+    ```
+
+3. **Install dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+4. **Run the application:**
+
+    ```bash
+    npm start
+    ```
+
+    Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to explore Serenity.
+
+## Contributing
+
+Contributions are welcome! If you have ideas, suggestions, or improvements, feel free to open an issue or create a pull request.
+
+## Acknowledgments
+
+Serenity is an innovative solution for mental well-being, designed for everyone. Our team is committed to providing a variety of services to support different aspects of society.
 
 
